@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(82, 116, 82);
+    margin: 20PX 300PX 400;
+
+        
+    
+    
+}
+
+header {
+    background-color: #496e5a;
+    padding: 5px 0;
+    text-align: center;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+
+}
+
+nav ul li a {
+    
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+.imagem{
+    width: 500px;
+    height:auto ;
+}
+p{
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
+.centralizado {
+    padding: 0 100px 0 100px;
+    margin: auto;
+}

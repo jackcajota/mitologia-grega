@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(42, 64, 92);
+    margin: 20PX 300PX 400;
+ 
+}
+.zeus{
+    width:550px;
+}
+p{
+    text-align: left;
+    color: aliceblue;
+    margin: 100px;
+    padding: 20px;
+}
+.titulo{
+    text-align: center; 
+    color: aliceblue;
+}
+ul {
+    list-style-type: none;
+    background-color: rgb(82, 108, 156);
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+color: aliceblue;
+}
+.menu{
+    display: flex;
+    
+}

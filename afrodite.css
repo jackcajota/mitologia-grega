@@ -1,0 +1,45 @@
+body{
+    background-color: pink
+}
+img{
+    width:250px;
+
+        margin: 20PX 300PX 400;
+}
+p{
+    text-align: left;
+    
+    margin: 100px;
+    padding: 20px;
+}
+.titulo{
+    text-align: center; 
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(250, 178, 190)
+    
+}
+    
+
+
+li {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+
+}
+.menu{
+    
+    
+}
+.imag{
+    width: 550px;
+    height: auto;
+}
+
+
